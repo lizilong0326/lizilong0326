@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="284" viewBox="0 0 1000 284" role="img" aria-labelledby="title desc">
+  <title id="title">李子龙的个人空间</title>
+  <desc id="desc">理解真实需求，设计有效体验。AI 产品经理，关注用户体验与产品价值。点击访问 lizilong0326.github.io。</desc>
+  <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}</style>
+  <rect x="1" y="1" width="998" height="282" rx="10" fill="#f9f9f9" stroke="#e6e6e6"/>
+  <path d="M1 53H999" stroke="#e6e6e6"/>
+  <rect x="25" y="19" width="17" height="15" rx="2" fill="none" stroke="#5d5d5d" stroke-width="1.5"/>
+  <path d="M31 20V33" stroke="#5d5d5d" stroke-width="1.5"/>
+  <text x="56" y="33" font-size="16" fill="#5d5d5d">个人空间 <tspan fill="#b0b0b0">/</tspan> GitHub</text>
+  <text x="970" y="33" text-anchor="end" font-size="14" fill="#8f8f8f">LI ZILONG</text>
+  <text x="40" y="101" font-size="16" fill="#5d5d5d">AI 产品经理 · 作品与思考</text>
+  <text x="40" y="152" font-size="34" font-weight="600" fill="#262626">理解真实需求，设计有效体验。</text>
+  <text x="40" y="190" font-size="18" fill="#5d5d5d">从前端开发走向 AI 产品，保持好奇，持续动手。</text>
+  <path d="M40 219H960" stroke="#e6e6e6"/>
+  <text x="40" y="253" font-size="16" fill="#5d5d5d">lizilong0326.github.io</text>
+  <text x="960" y="253" text-anchor="end" font-size="16" fill="#262626">进入个人空间 ↗</text>
+  <g fill="#d9d9d9">
+    <rect x="870" y="101" width="18" height="18"/><rect x="894" y="101" width="18" height="18" opacity=".65"/>
+    <rect x="918" y="101" width="18" height="18" opacity=".3"/><rect x="870" y="125" width="18" height="18" opacity=".65"/>
+    <rect x="894" y="125" width="18" height="18" opacity=".3"/><rect x="942" y="125" width="18" height="18" opacity=".18"/>
+    <rect x="846" y="149" width="18" height="18" opacity=".3"/><rect x="918" y="149" width="18" height="18" opacity=".18"/>
+  </g>
+</svg>
