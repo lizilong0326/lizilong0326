@@ -1,52 +1,51 @@
-[![李子龙 · AI 产品经理。理解真实需求，设计有效体验。点击访问个人网站。](assets/profile-cover-motion.svg)](https://lizilong0326.github.io/)
+# 你好，我是李子龙
 
-### 你好，我是李子龙
+[![理解真实需求，设计有效体验。李子龙的个人空间，点击访问个人网站。](assets/profile-cover.svg)](https://lizilong0326.github.io/)
 
-从前端开发走向 **AI 产品经理**，把产品思考、原型与代码连接起来。关注真实需求，也在意每一次点击的体验。
+**AI 产品经理，关注用户体验与产品价值。** 曾是一名前端开发工程师，现在把产品思考、原型与代码连接起来，持续探索 AI 能解决的具体问题。
 
-**[个人网站 ↗](https://lizilong0326.github.io/)**　 /　 [产品思考](https://www.woshipm.com/u/1686678)　 /　 [联系与关注](https://lizilong0326.github.io/#elsewhere)
+写代码的经历，让我关注界面中的每一个细节；做产品，让我开始从更前面的问题出发。
 
-## 精选作品
+**[访问我的个人网站 ↗](https://lizilong0326.github.io/)** · [阅读产品思考](https://www.woshipm.com/u/1686678) · [联系与关注](https://lizilong0326.github.io/#elsewhere)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<p><sub>01 / macOS 效率工具</sub></p>
-<h3><a href="https://github.com/lizilong0326/IslandMemo">IslandMemo · 丫丫灵动 ↗</a></h3>
-<p><strong>让 Mac 顶部，成为随手可用的工作台。</strong></p>
-<p>把备忘录、复制记录、常用链接与专注工具放进可编排的面板，减少日常切换。按需接入 AI，将复制内容整理成待办。</p>
-<p><code>Swift</code> <code>macOS</code> <code>本地优先</code></p>
-</td>
-<td width="50%" valign="top">
-<p><sub>02 / Agent 工作流</sub></p>
-<h3><a href="https://github.com/lizilong0326/product-teardown-skill">产品拆解 Skill ↗</a></h3>
-<p><strong>让产品分析，有证据、有结构。</strong></p>
-<p>基于截图、网站、源码与文档，从用户、技术、模型和数据四个层面拆解产品，生成 HTML 报告，区分事实与推断。</p>
-<p><code>Agent Skill</code> <code>产品研究</code> <code>证据驱动</code></p>
-</td>
-</tr>
-</table>
+## 作品与实践
 
-**[03 / 个人空间 ↗](https://lizilong0326.github.io/)** — 项目、文字与日常探索的集合。浅灰像素开场，也是一次交互细节的实践。 [查看源码](https://github.com/lizilong0326/lizilong0326.github.io)
+### [IslandMemo · 丫丫灵动](https://github.com/lizilong0326/IslandMemo)
 
-## 思考与记录
+把 Mac 屏幕顶部变成随手可用的本地工作台。将备忘录、复制记录、常用链接与专注工具放在一个可自由编排的面板里，减少日常切换；也可以按需接入 AI，将复制内容整理成待办任务。
 
-持续探索 **AI 产品实践**、**个人效率工具**，以及能复用的产品研究方法。把做过的事写下来，也把想明白的方法做成工具。
+`Swift` · `macOS` · `效率工具` · `本地优先`
 
-[**人人都是产品经理 · 木子李 ↗**](https://www.woshipm.com/u/1686678)<br>
-产品思考与实践复盘。
+### [产品拆解 Skill](https://github.com/lizilong0326/product-teardown-skill)
 
-[**微信公众号 · 木子李AI进化论 ↗**](https://lizilong0326.github.io/#elsewhere)<br>
-长一点的思考，慢一点的记录。
+把产品研究的方法沉淀为可复用的 Agent 工作流。基于截图、网站、源码与文档，从用户、技术、模型和数据四个层面分析产品，输出独立 HTML 报告，并区分事实、推断、建议与未知。
+
+`Agent Skill` · `产品研究` · `证据驱动`
+
+### [个人空间](https://lizilong0326.github.io/)
+
+收集做过的项目、写下的思考，以及持续探索的过程。浅灰像素开场、简洁的阅读空间，也是我对交互细节的一次实践。
+
+[访问网站](https://lizilong0326.github.io/) · [查看源码](https://github.com/lizilong0326/lizilong0326.github.io)
+
+## 我关注的方向
+
+- **AI 产品实践**：从真实需求出发，关注使用场景、体验和实际价值。
+- **个人效率工具**：让记录、整理与执行更顺手，减少重复操作。
+- **可复用的工作方法**：把产品分析与验证过程整理成有证据、有结构的工作流。
+
+## 文字与交流
+
+- [人人都是产品经理 · 木子李](https://www.woshipm.com/u/1686678)：产品思考与实践复盘。
+- [微信公众号 · 木子李AI进化论](https://lizilong0326.github.io/#elsewhere)：长一点的思考，慢一点的记录。
+- 项目问题与建议，欢迎在对应仓库的 Issues 中交流。
 
 <details>
-<summary>扫码关注公众号</summary>
+<summary>微信扫码，关注「木子李AI进化论」</summary>
 <br>
 <img src="assets/wechat-qr.jpg" width="180" height="180" alt="木子李AI进化论微信公众号二维码">
 </details>
 
-项目问题与建议，欢迎在对应仓库的 Issues 中交流。
-
 ---
 
-<sub>对世界保持好奇，对值得的事保持耐心。</sub>
+对世界保持好奇，对值得的事保持耐心。
