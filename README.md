@@ -1,10 +1,10 @@
 # 你好，我是李子龙
 
-[![理解真实需求，设计有效体验。李子龙 · AI 产品经理 / FDE。](assets/profile-cover.svg)](https://lizilong0326.github.io/)
+[![理解真实需求，设计有效体验。李子龙 · AI 产品经理 / FDE。](assets/profile-cover.svg)](https://lizilong.cn/)
 
 **AI 产品经理 / FDE，9 年互联网产品与技术经验，近 3 年聚焦 AI 产品设计与应用交付。** 曾任前端负责人，擅长将复杂业务流程转化为可落地的 AI 产品方案，从需求与 MVP、交互流程设计，推进到模型接入、知识治理、评测迭代和研发交付。
 
-**[个人网站与项目详情 ↗](https://lizilong0326.github.io/)** · [产品思考](https://www.woshipm.com/u/1686678) · [联系与关注](https://lizilong0326.github.io/#elsewhere)
+**[个人网站与项目详情 ↗](https://lizilong.cn/)** · [产品思考](https://www.woshipm.com/u/1686678) · [联系与关注](https://lizilong.cn/#elsewhere)
 
 ## AI 产品实践
 
@@ -13,7 +13,7 @@
 - **车兄弟 · AI 预检与报价**：将证件 OCR、车辆信息识别、补贴资格规则和参考估价接入收车流程，明确 AI 辅助识别、现场核验及人工最终定价的分工，负责产品方案与前端交付。
 - **21 世纪房车 · 智能客服**：负责选车咨询、用车问答与人工接手方案，协同模型接入、知识库路由、向量检索和 Rerank，交付流式会话前端。2026 年外包参与的文章 RAG 新版仍处于研发阶段。
 
-[查看项目背景、本人职责与交付结果 →](https://lizilong0326.github.io/#project-ai)
+[查看项目背景、本人职责与交付结果 →](https://lizilong.cn/#project-ai)
 
 ## 开源作品
 
@@ -48,7 +48,7 @@
 - **评测与迭代**：建设真实任务评测集，沿意图、检索、生成和工具执行定位 Bad Case，通过同场景回放检查修复与能力退化。
 - **工程与交付**：将 PRD 落实为接口约定、权限、异步状态和异常恢复；熟悉 Web、H5、微信小程序与 SSR，持续用 AI 编程工具构建原型和作品。
 
-也参与 **未明·海龟汤** 的 AI 主持与实时协作、**一炷** 的多轮解读与 RAG 评测。[阅读协作项目实践 →](https://lizilong0326.github.io/#project-experiment)
+也参与 **未明·海龟汤** 的 AI 主持与实时协作、**一炷** 的多轮解读与 RAG 评测。[阅读协作项目实践 →](https://lizilong.cn/#project-experiment)
 
 ## 经历
 
@@ -59,7 +59,7 @@
 ## 文字与交流
 
 - [人人都是产品经理 · 木子李](https://www.woshipm.com/u/1686678)：产品思考与实践复盘。
-- [微信公众号 · 木子李AI进化论](https://lizilong0326.github.io/#elsewhere)：长一点的思考，慢一点的记录。
+- [微信公众号 · 木子李AI进化论](https://lizilong.cn/#elsewhere)：长一点的思考，慢一点的记录。
 - 项目问题与建议，欢迎在对应仓库的 Issues 中交流。
 
 <details>

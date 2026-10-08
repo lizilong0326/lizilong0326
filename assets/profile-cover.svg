@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="284" viewBox="0 0 1000 284" role="img" aria-labelledby="title desc">
   <title id="title">李子龙的个人空间</title>
-  <desc id="desc">理解真实需求，设计有效体验。AI 产品经理 / FDE，专注 AI 产品设计与应用交付。点击访问 lizilong0326.github.io。</desc>
+  <desc id="desc">理解真实需求，设计有效体验。AI 产品经理 / FDE，专注 AI 产品设计与应用交付。点击访问 lizilong.cn。</desc>
   <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}</style>
   <rect x="1" y="1" width="998" height="282" rx="10" fill="#f9f9f9" stroke="#e6e6e6"/>
   <path d="M1 53H999" stroke="#e6e6e6"/>
@@ -12,7 +12,7 @@
   <text x="40" y="152" font-size="34" font-weight="600" fill="#262626">理解真实需求，设计有效体验。</text>
   <text x="40" y="190" font-size="18" fill="#5d5d5d">Agent · 企业知识治理 · RAG · 评测与交付</text>
   <path d="M40 219H960" stroke="#e6e6e6"/>
-  <text x="40" y="253" font-size="16" fill="#5d5d5d">lizilong0326.github.io</text>
+  <text x="40" y="253" font-size="16" fill="#5d5d5d">lizilong.cn</text>
   <text x="960" y="253" text-anchor="end" font-size="16" fill="#262626">进入个人空间 ↗</text>
   <g fill="#d9d9d9">
     <rect x="870" y="101" width="18" height="18"/><rect x="894" y="101" width="18" height="18" opacity=".65"/>
