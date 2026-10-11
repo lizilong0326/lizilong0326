@@ -6,6 +6,19 @@
 
 **[个人网站与项目详情 ↗](https://lizilong.cn/)** · [产品思考](https://www.woshipm.com/u/1686678) · [联系与关注](https://lizilong.cn/#elsewhere)
 
+## 最近开源 · [蓝图 Harness Blueprint](https://github.com/lizilong0326/harness-blueprint)
+
+**从一个点子、一份 PRD 或一段代码，推导可继续落地的 Agent Harness 方案。**
+
+- **点子 → 方案**：拆解需求，选择所需组件，输出七层架构、工具清单与系统提示词草案。
+- **代码 → 差距**：检查已有项目，整理缺失能力、补齐优先级与对应参考实现。
+
+包含五步推导规则与 **17 组 Harness 组件参考实现**，提供 macOS 启动入口和 Python 命令行，支持中断后续跑。真实推导需配置模型服务，以 MIT 许可开源。
+
+`Agent Harness` · `需求与架构` · `Python`
+
+[查看源码 →](https://github.com/lizilong0326/harness-blueprint) · [查看输出示例 →](https://github.com/lizilong0326/harness-blueprint/blob/main/docs/examples/README.md)
+
 ## AI 产品实践
 
 - **3721优势科学 · AI 房车销售陪练**：主导产品方案与交互流程设计，围绕客户角色、企业知识和会话历史组织多轮训练，交付结构化评分、多模态材料处理与客户跟进辅助；负责小程序前端及联调，完善异步评分、任务补发与异常恢复。已在多品牌、多门店应用。
